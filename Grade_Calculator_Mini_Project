@@ -1,0 +1,24 @@
+Maximum_Number=500
+
+English=float(input("Enter your marks in English: "))
+Physics=float(input("Enter your marks in Physics: "))
+Chemistry=float(input("Enter your marks in Chemistry: "))
+Mathematics=float(input("Enter your marks in Mathematics: "))
+Physical_Education=float(input("Enter your marks in Physical Education: "))
+
+Total=English+Physics+Chemistry+Mathematics+Physical_Education
+
+Percentage= (Total/Maximum_Number)*100
+
+print("Your total marks are",Total, "and your percentage is",Percentage, "%")
+
+if(Percentage>=90):
+    print("You have achieved A grade")
+elif(Percentage>=75 and Percentage<=89):
+    print("You have achieved B grade")
+elif(Percentage>=60 and Percentage<=74):
+    print("You have achieved C grade")
+elif(Percentage>=40 and Percentage<=59):
+    print("You have achieved D grade")
+else:
+    print("You have failed")
