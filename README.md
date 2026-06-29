@@ -6,3 +6,4 @@ Projects:
 - **Temperature Converter:** Converts temperature between Celsius and Fahrenheit.
 - **Electricity Bill Calculator:** Calculates electricity bill based on units consumed using slab rates.
 - **Simple Interest Calculator:** Calculates simple interest and total amount using principal, rate and time.
+-  **Odd or Even Checker:** Checks if a number is odd or even, and whether it is positive, negative or zero.
