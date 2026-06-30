@@ -8,3 +8,4 @@ Projects:
 - **Simple Interest Calculator:** Calculates simple interest and total amount using principal, rate and time.
 -  **Odd or Even Checker:** Checks if a number is odd or even, and whether it is positive, negative or zero.
 -  **Age Calculator:** Calculates age and identifies the generation based on birth year.
+-  **Username Generator:** Generates a username using first 3 letters of first name and surname.
