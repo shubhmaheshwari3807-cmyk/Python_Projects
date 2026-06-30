@@ -10,3 +10,4 @@ Projects:
 -  **Age Calculator:** Calculates age and identifies the generation based on birth year.
 -  **Username Generator:** Generates a username using first 3 letters of first name and surname.
 -  **Text Analyzer:** Analyzes a sentence; length, letter count, capitalization and replacing spaces.
+-  **Simple Login System:** Checks username and password against stored credentials using nested conditionals.
