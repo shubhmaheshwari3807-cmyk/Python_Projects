@@ -14,4 +14,5 @@ Projects:
 -  **Email Validator:** Checks if an email contains "@" exactly once and ends with ".com".
 -  **Mad Libs Generator:** Generates a fun story by combining user inputs using string concatenation.
 -  **Shopping List Manager:** Collects 5 items from user, stores them in a list and displays the total count.
--  - **Student Marks Sorter:** Collects marks of 5 students, sorts them and displays the highest and lowest.
+-  **Student Marks Sorter:** Collects marks of 5 students, sorts them and displays the highest and lowest.
+-  **Tuple Info Finder:** Finds the index and count of a city name inside a fixed tuple of cities.
