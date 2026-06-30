@@ -9,3 +9,4 @@ Projects:
 -  **Odd or Even Checker:** Checks if a number is odd or even, and whether it is positive, negative or zero.
 -  **Age Calculator:** Calculates age and identifies the generation based on birth year.
 -  **Username Generator:** Generates a username using first 3 letters of first name and surname.
+-  **Text Analyzer:** Analyzes a sentence; length, letter count, capitalization and replacing spaces.
