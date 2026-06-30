@@ -16,3 +16,4 @@ Projects:
 -  **Shopping List Manager:** Collects 5 items from user, stores them in a list and displays the total count.
 -  **Student Marks Sorter:** Collects marks of 5 students, sorts them and displays the highest and lowest.
 -  **Tuple Info Finder:** Finds the index and count of a city name inside a fixed tuple of cities.
+-  **Student Report System:** Collects student names and marks, sorts them and counts students above a target score.
