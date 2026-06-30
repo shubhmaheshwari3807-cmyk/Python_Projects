@@ -12,3 +12,4 @@ Projects:
 -  **Text Analyzer:** Analyzes a sentence; length, letter count, capitalization and replacing spaces.
 -  **Simple Login System:** Checks username and password against stored credentials using nested conditionals.
 -  **Email Validator:** Checks if an email contains "@" exactly once and ends with ".com".
+-  **Mad Libs Generator:** Generates a fun story by combining user inputs using string concatenation.
