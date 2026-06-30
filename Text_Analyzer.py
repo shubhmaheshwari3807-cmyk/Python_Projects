@@ -1,0 +1,7 @@
+text=input("Enter a text: ")
+print("The length of your text is", len(text))
+print("Your text has the letter 'a'",text.count("a"),"times")
+text_1=text.capitalize()
+print(text_1)
+text_2=text.replace(" ", "_")
+print(text_2)
