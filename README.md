@@ -17,3 +17,4 @@ Projects:
 -  **Student Marks Sorter:** Collects marks of 5 students, sorts them and displays the highest and lowest.
 -  **Tuple Info Finder:** Finds the index and count of a city name inside a fixed tuple of cities.
 -  **Student Report System:** Collects student names and marks, sorts them and counts students above a target score.
+-  **Contact Book:** Stores 3 contacts in a dictionary, searches for a contact's number, and lets the user delete a contact.
