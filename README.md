@@ -20,3 +20,4 @@ Projects:
 -  **Contact Book:** Stores 3 contacts in a dictionary, searches for a contact's number, and lets the user delete a contact.
 -  **Student Grade Manager:** Collects marks for 2 students, calculates their average, assigns a grade (A/B/Fail), and stores results in a dictionary.
 -  **Unique Visitor Tracker:** Collects 3 visitor names each for two days and uses sets to find all unique visitors and those who visited on both days.
+-  **Inventory Tracker:** Stores 2 items with price and quantity as tuples in a dictionary, and updates an item's quantity while keeping its price unchanged.
