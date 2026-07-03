@@ -22,3 +22,4 @@ Projects:
 -  **Unique Visitor Tracker:** Collects 3 visitor names each for two days and uses sets to find all unique visitors and those who visited on both days.
 -  **Inventory Tracker:** Stores 2 items with price and quantity as tuples in a dictionary, and updates an item's quantity while keeping its price unchanged.
 -  **Word Counter:** Takes 3 words as input and counts how many times each word was repeated, using a dictionary.
+-  **Number Guessing Game:** Uses a while loop to let the user guess a secret number, giving hints only outside a certain 'close range' as a twist.
