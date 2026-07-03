@@ -24,3 +24,4 @@ Projects:
 -  **Word Counter:** Takes 3 words as input and counts how many times each word was repeated, using a dictionary.
 -  **Number Guessing Game:** Uses a while loop to let the user guess a secret number, giving hints only outside a certain 'close range' as a twist.
 -  **Sum and Count with Skip:** Loops through numbers 1-20, skips multiples of 3 using continue, and totals the remaining numbers.
+-  **Login Attempt Limiter:** Gives the user up to 3 attempts to enter the correct password using a while loop, locking them out if all attempts fail.
