@@ -30,3 +30,4 @@ Projects:
 -  **Simple Calculator:** Uses separate functions for add, subtract, multiply, and divide, and calls the correct one based on user input.
 -  **Discount Calculator:** Applies a discount to a price using a function with a default 10% discount that can be overridden.
 -  **Username Generator V2:** Builds a username from parts of a first and last name with a default numeric suffix that can be customized.
+-  **Tax Calculator:** Calculates tax on income either by asking the user for a custom tax rate or auto-assigning one based on income brackets.
