@@ -27,3 +27,4 @@ Projects:
 -  **Login Attempt Limiter:** Gives the user up to 3 attempts to enter the correct password using a while loop, locking them out if all attempts fail.
 -  **Unique Word Finder:** Collects any number of words from the user using a loop, then uses a set to show how many were unique.
 -  **Word Counter v2:** Takes any number of words from the user and counts how many times each word appears, using a dictionary and a for loop.
+-  **Simple Calculator:** Uses separate functions for add, subtract, multiply, and divide, and calls the correct one based on user input.
