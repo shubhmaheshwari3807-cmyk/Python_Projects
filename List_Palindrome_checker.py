@@ -1,5 +1,3 @@
-#Practice question to check if a list is palindrome or not
-
 list1=[1, 2, 2, 1]
 list2=[1, 2, 3, 6]
 
