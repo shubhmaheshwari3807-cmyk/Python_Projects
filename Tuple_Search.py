@@ -1,4 +1,3 @@
-#Practice question to search for a number in a tuple
 x=int(input("Enter a number in the tuple: "))
 number=(43, 56, 23, 78, 54, 100)
 length=len(number)-1
