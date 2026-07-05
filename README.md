@@ -33,3 +33,4 @@ Projects:
 -  **Tax Calculator:** Calculates tax on income either by asking the user for a custom tax rate or auto-assigning one based on income brackets.
 -  **Vowel and Consonant Counter:** Counts the number of vowels and consonants in a word entered by the user.
 -  **List Palindrome Checker:** Checks whether two given lists read the same forwards and backwards using list copying and reversing.
+-  **Tuple Search:** Searches for a user-given number inside a tuple using a while loop and prints its index if found.
