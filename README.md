@@ -34,3 +34,4 @@ Projects:
 -  **Vowel and Consonant Counter:** Counts the number of vowels and consonants in a word entered by the user.
 -  **List Palindrome Checker:** Checks whether two given lists read the same forwards and backwards using list copying and reversing.
 -  **Tuple Search:** Searches for a user-given number inside a tuple using a while loop and prints its index if found.
+-  **Simple Notes App:** Lets the user append multiple notes to a file and then reads and displays all saved notes.
