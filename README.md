@@ -41,3 +41,4 @@ Projects:
 -  **Student Class:** Models a student with name and marks, calculates their average, and demonstrates a shared class attribute for school name.
 -  **Bank Account:** Models a bank account with methods to debit, credit, and check balance using class and instance attributes.
 -  **Shape Calculator:** Uses a static method to add two numbers and a Circle class with an instance method to calculate area, showing the difference between static and regular methods.
+-  **Library Book System:** Models a book with borrow and return methods that manage its availability status internally.
