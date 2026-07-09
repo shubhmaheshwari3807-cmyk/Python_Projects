@@ -40,3 +40,4 @@ Projects:
 -  **To-Do List Manager:** Lets the user append tasks to a file, view the full list, and delete the file entirely using the os module.
 -  **Student Class:** Models a student with name and marks, calculates their average, and demonstrates a shared class attribute for school name.
 -  **Bank Account:** Models a bank account with methods to debit, credit, and check balance using class and instance attributes.
+-  **Shape Calculator:** Uses a static method to add two numbers and a Circle class with an instance method to calculate area, showing the difference between static and regular methods.
