@@ -38,3 +38,4 @@ Projects:
 -  **Line-by-Line Reader:** Writes multiple lines to a file, reads them back one at a time using readline(), and also demonstrates reading a fixed number of      characters using read(n).
 -  **Login Credential Saver:** Saves a username and password to a file, displays them, and lets the user update the credentials by reopening the file in write mode.
 -  **To-Do List Manager:** Lets the user append tasks to a file, view the full list, and delete the file entirely using the os module.
+-  **Student Class:** Models a student with name and marks, calculates their average, and demonstrates a shared class attribute for school name.
