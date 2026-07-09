@@ -39,3 +39,4 @@ Projects:
 -  **Login Credential Saver:** Saves a username and password to a file, displays them, and lets the user update the credentials by reopening the file in write mode.
 -  **To-Do List Manager:** Lets the user append tasks to a file, view the full list, and delete the file entirely using the os module.
 -  **Student Class:** Models a student with name and marks, calculates their average, and demonstrates a shared class attribute for school name.
+-  **Bank Account:** Models a bank account with methods to debit, credit, and check balance using class and instance attributes.
