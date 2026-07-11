@@ -42,3 +42,4 @@ Projects:
 -  **Bank Account:** Models a bank account with methods to debit, credit, and check balance using class and instance attributes.
 -  **Shape Calculator:** Uses a static method to add two numbers and a Circle class with an instance method to calculate area, showing the difference between static and regular methods.
 -  **Library Book System:** Models a book with borrow and return methods that manage its availability status internally.
+-  **Person-Student Inheritance:** Creates a Student class that inherits name and age from a Person class using super(), and adds course information.
